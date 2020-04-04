@@ -1,4 +1,4 @@
-# Robotics-Arm-simulator
+# hiArm
 ### Picture of the arm :smiley:
 <img src = "https://github.com/medegw01/Robotics-Arm-simulator/blob/master/actual%20robot.jpg"  width="400" height="600"><br/>
 ### Video Demo:
